@@ -1,4 +1,4 @@
-package com.example.practiceproject
+package com.example.businesscard
 
 import org.junit.Test
 
